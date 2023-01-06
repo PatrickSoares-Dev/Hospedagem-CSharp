@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospedagem", "Hospedagem.csproj", "{552950FA-6BBA-4F25-99CB-813475885E5F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{6114B40A-8C8E-4D0E-8C50-2BFB5457F218}"
+	ProjectSection(SolutionItems) = preProject
+		Pessoa.cs = Pessoa.cs
+		Reserva.cs = Reserva.cs
+		Suite.cs = Suite.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552950FA-6BBA-4F25-99CB-813475885E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552950FA-6BBA-4F25-99CB-813475885E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552950FA-6BBA-4F25-99CB-813475885E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552950FA-6BBA-4F25-99CB-813475885E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0FD5943-77A7-4CC1-B414-C0AB285A4DBA}
+	EndGlobalSection
+EndGlobal

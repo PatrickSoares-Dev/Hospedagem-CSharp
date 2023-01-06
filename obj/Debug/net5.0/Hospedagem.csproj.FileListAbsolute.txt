@@ -1,0 +1,16 @@
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\bin\Debug\net5.0\Hospedagem.exe
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\bin\Debug\net5.0\Hospedagem.deps.json
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\bin\Debug\net5.0\Hospedagem.runtimeconfig.json
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\bin\Debug\net5.0\Hospedagem.runtimeconfig.dev.json
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\bin\Debug\net5.0\Hospedagem.dll
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\bin\Debug\net5.0\Hospedagem.pdb
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\obj\Debug\net5.0\Hospedagem.csproj.AssemblyReference.cache
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\obj\Debug\net5.0\Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\obj\Debug\net5.0\Hospedagem.AssemblyInfoInputs.cache
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\obj\Debug\net5.0\Hospedagem.AssemblyInfo.cs
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\obj\Debug\net5.0\Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\obj\Debug\net5.0\Hospedagem.dll
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\obj\Debug\net5.0\refint\Hospedagem.dll
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\obj\Debug\net5.0\Hospedagem.pdb
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\obj\Debug\net5.0\Hospedagem.genruntimeconfig.cache
+C:\Users\patrick.oliveira\Desktop\Codes\bootcamp\Hospedagem\obj\Debug\net5.0\ref\Hospedagem.dll
